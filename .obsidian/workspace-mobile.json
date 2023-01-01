@@ -1,0 +1,126 @@
+{
+  "main": {
+    "id": "dbb309b805b50a0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5832ee927e09fbc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbcc7b306a27a6b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "jmart-tech-content/A test for testing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c6642d269704ff55",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "000ba1305ac0f6c1",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "946f6daa663774db",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "017fabb44c2a6ccb",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "1000a7aaddf960b6",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "8faa33523c9f5ac9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1fd87b10264fd89d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "jmart-tech-content/A test for testing.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "38d85393125db4e1",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "jmart-tech-content/A test for testing.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "660a09df5f884c94",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "jmart-tech-content/A test for testing.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "dbcc7b306a27a6b2",
+  "lastOpenFiles": []
+}
