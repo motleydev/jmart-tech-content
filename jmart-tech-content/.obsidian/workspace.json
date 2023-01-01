@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A test for testing.md",
+                "file": "daily/2023-01-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A test for testing.md",
+                "file": "daily/2023-01-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A test for testing.md",
+                "file": "daily/2023-01-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,8 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A test for testing.md"
+                "file": "daily/2023-01-01.md"
               }
+            }
+          },
+          {
+            "id": "f2592b1d354523f3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -147,5 +155,7 @@
     }
   },
   "active": "68be153f98a292ba",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "A test for testing.md"
+  ]
 }
