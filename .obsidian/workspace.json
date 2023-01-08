@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2023-01-03.md",
+                "file": "daily/2023-01-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2023-01-07.md",
+                "file": "daily/2023-01-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2023-01-07.md",
+                "file": "daily/2023-01-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2023-01-07.md"
+                "file": "daily/2023-01-08.md"
               }
             }
           },
@@ -203,17 +203,17 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "3634bb2f508814a0",
+  "active": "094e7f449b0e34eb",
   "lastOpenFiles": [
-    "daily/2023-01-06.md",
     "daily/2023-01-07.md",
+    "daily/2023-01-08.md",
+    "daily/2023-01-03.md",
+    "daily/2023-01-06.md",
     "daily/2023-01-01.md",
     "daily/2023-01-02.md",
-    "daily/2023-01-03.md",
     "daily/2023-01-04.md",
     "daily/2023-01-05.md",
     "A test for testing.md",
-    "Show your work and the battle with AI.md",
-    "Untitled.canvas"
+    "Show your work and the battle with AI.md"
   ]
 }
