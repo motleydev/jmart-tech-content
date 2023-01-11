@@ -8,3 +8,6 @@ Gotta start somewhere.
 Go.
 
 Done
+
+[External Links](https://google.com)
+[[Typescript Learning Resources |Learn Typescript]]
